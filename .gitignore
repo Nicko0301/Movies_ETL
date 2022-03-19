@@ -1,3 +1,8 @@
+# Add DB__password
+db_password = 'Arypla22!'
+# Add large files
+movies_metadata.csv
+ratings.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
